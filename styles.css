@@ -7,7 +7,7 @@
 html, body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, helvetica;
   line-height: 1.7em;
-  background: url('./imagenes/restaurante.jpg') no-repeat center center/cover;
+  background: url('../restaurante.jpg') no-repeat center center/cover;
   background-attachment: fixed;
 
 }
